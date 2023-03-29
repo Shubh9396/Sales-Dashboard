@@ -1,5 +1,6 @@
 # Sales-Dashboard
 Case study for a Retail App.
+
 Partner app allows Retailers To order supplies online. We are continuously working on optimizing the app.
 1.	Which KPIs would you use to measure the performance of our app?
 2.	Prepare a report regarding our growth between the 2 years. Please Try To answer the following questions:
